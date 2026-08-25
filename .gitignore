@@ -5,3 +5,8 @@ __pycache__/
 .idea/
 .DS_Store
 Thumbs.db
+
+# Output & runtime generated files
+data/historical_predictions.csv
+data/last_predictions.csv
+data/upcoming_fights.csv
